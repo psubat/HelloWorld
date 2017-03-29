@@ -1,6 +1,6 @@
 {
     "name"              :"TestPasub",
-    "description"       :"My first plugin",
+    "description"       :"Test Plugin for Ceres",
     "namespace"         :"TestPasub",
     "author"            :"Pawel Subat",
     "type"              :"template",

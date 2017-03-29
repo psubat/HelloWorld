@@ -10,6 +10,6 @@ class HelloWorldRouteServiceProvider extends RouteServiceProvider
 {
     public function map(Router $router)
     {
-      $router->get('hello','TestPasub\Controllers\ContentController@sayHello');
+        $router->get('hello','TestPasub\Controllers\ContentController@sayHello');
     }
 }
