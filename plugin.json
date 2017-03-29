@@ -1,8 +1,8 @@
 {
-    "name"              :"HelloWorld",
+    "name"              :"TestPasub",
     "description"       :"My first plugin",
-    "namespace"         :"HelloWorld",
+    "namespace"         :"TestPasub",
     "author"            :"Pawel Subat",
     "type"              :"template",
-    "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
+    "serviceProvider"   :"TestPasub\\Providers\\HelloWorldServiceProvider"
 }
